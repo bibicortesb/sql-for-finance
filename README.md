@@ -40,8 +40,26 @@ One such payment_id: `P0014`
 
 ## Results
 
-Three missing settlements where identified as follows
+### Task 1 (external settlement timing / confirmation issues)
+
+We identified three completed payments without settlement confirmation. Two are TEF payments and one is payroll portability. Based on creation times, one item is aged and requires investigation, while the remaining two are likely timing-related and should be monitored
 
 <img src="./docs/img/img.png" width="500">
 
+### Task 2 (internal accounting booking failures)
 
+
+
+<img src="./docs/img/img_2.png" width="500">
+
+### Task 3
+
+<img src="./docs/img/img_3.png" width="500">
+
+### Task 4
+
+<img src="./docs/img/img_4.png" width="500">
+
+### Task 5
+
+<img src="./docs/img/img_5.png" width="500">
