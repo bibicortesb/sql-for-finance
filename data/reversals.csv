@@ -1,0 +1,2 @@
+reversal_id,payment_id,amount,currency,reversed_at,reason
+R56463,P0011,1800,MXN,2026-02-02 18:44:00,insufficient_funds
