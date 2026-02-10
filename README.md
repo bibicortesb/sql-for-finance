@@ -48,7 +48,7 @@ We identified three completed payments without settlement confirmation. Two are 
 
 ### Task 2 (internal accounting booking failures)
 
-
+We identified two distinct reconciliation issues: (1) three completed payments missing external settlement confirmation, likely driven by timing or rail-specific delays; and (2) six completed payments missing internal ledger entries, indicating a potential accounting pipeline issue. The latter requires immediate investigation due to internal balance integrity risk.
 
 <img src="./docs/img/img_2.png" width="500">
 
