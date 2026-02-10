@@ -42,6 +42,6 @@ One such payment_id: `P0014`
 
 Three missing settlements where identified as follows
 
-<img src="SQL_practice/docs/img/img.png" width="500">
+<img src="./docs/img/img.png" width="500">
 
 
