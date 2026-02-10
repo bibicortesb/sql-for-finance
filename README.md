@@ -37,3 +37,11 @@ All data is synthetic and randomly generated.
 **Guaranteed scenario:** at least one COMPLETED payment has a ledger entry but NO bank settlement.
 
 One such payment_id: `P0014`
+
+## Results
+
+Three missing settlements where identified as follows
+
+<img src="SQL_practice/docs/img/img.png" width="500">
+
+
